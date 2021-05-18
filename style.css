@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  background-color: rgb(88, 85, 85);
+}
+.dice{
+  display: inline-block;
+  color: aqua;
+}
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+h4 {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 70%;
+}
+footer{
+  text-align: center;
+  padding-top: 10%;
+}
+.btn{
+  padding:20px;
+  background-color:aqua;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  margin-top: 2%;
+}
